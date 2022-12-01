@@ -1,1 +1,1 @@
- Repository for learning version control with git
+Git for version control using bash
