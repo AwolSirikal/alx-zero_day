@@ -1,1 +1,1 @@
-Git for version control using bash
+Learning git essential commands for devops
